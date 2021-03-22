@@ -1,11 +1,11 @@
 ---
 date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Student Ambassador'
+company: 'Information Central – Seattle Central College'
+location: 'Seattle, WA'
+range: 'September 2018 - September 2019'
+url: 'https://seattlecentral.edu/get-started/enroll-now/info-central#:~:text=We%20understand%2C%20as%20students%20and%20representatives%20of%20Seattle,process.%20Our%20Motto%20Students%20helping%20students%20navigate%20college'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Demonstrated resourcefulness, customer service, and problem-solving skills by helping students, faculty & staff, and community members with school-related information for approximately 120 people per day
+- Developed communication skills through leading total of 15 campus tours with 12-18 students per tour

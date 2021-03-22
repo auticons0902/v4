@@ -6,6 +6,7 @@ export { default as IconFork } from './fork';
 export { default as Icon } from './icon';
 export { default as IconGitHub } from './github';
 export { default as IconInstagram } from './instagram';
+export { default as IconFacebook } from './facebook';
 export { default as IconLinkedin } from './linkedin';
 export { default as IconLoader } from './loader';
 export { default as IconLogo } from './logo';

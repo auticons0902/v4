@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Nhi Nguyen',
     description:
-      'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Nhi Nguyen is a Junior at Seattle University double majoring in Finance and Business Analytics. She is an incoming Finance Intern at Thermo Fisher Scientific in their Finance Leadership Development Program. ',
+    siteUrl: 'https://thisisnhinguyen.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@NhiNguyen0616',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -19,11 +19,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'Nhi Nguyen',
+        short_name: 'NhiNguyen',
         start_url: '/',
-        background_color: config.colors.darkNavy,
-        theme_color: config.colors.navy,
+        background_color: config.colors.white,
+        theme_color: config.colors.black,
         display: 'minimal-ui',
         icon: 'src/images/logo.png',
       },

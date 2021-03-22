@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'nnguyen1@seattleu.edu',
 
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/thisisnhinguyen/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://mobile.twitter.com/NhiNguyen0616',
     },
     {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/nhinguyen0616/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Facebook',
+      url: 'https://www.facebook.com/nhinguyen.0616',
+    },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/nhinguyen0616',
     },
   ],
 
@@ -33,10 +33,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    {
-      name: 'Work',
-      url: '/#projects',
-    },
+    // {
+    //   name: 'Work',
+    //   url: '/#projects',
+    // },
     {
       name: 'Contact',
       url: '/#contact',
@@ -47,6 +47,8 @@ module.exports = {
     green: '#64ffda',
     navy: '#0a192f',
     darkNavy: '#020c1b',
+    white: '#ffffff',
+    black: '#000000',
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({
