@@ -1,7 +1,7 @@
 ---
 date: '2018-04-01'
 title: 'Chair of Internal Affairs'
-company: 'Student Government of SeattleU'
+company: 'Student Government of SU'
 location: 'Seattle, WA'
 range: 'May 2020 - Present'
 url: 'https://www.seattleu.edu/sgsu/'
