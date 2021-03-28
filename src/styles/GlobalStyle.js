@@ -8,7 +8,7 @@ const GlobalStyle = createGlobalStyle`
 
   :root {
     --dark-navy: #020c1b;
-    --navy: #0a192f;
+    // --navy: #e6f1ff;
     --light-navy: #172a45;
     --lightest-navy: #303C55;
     --navy-shadow: rgba(2, 12, 27, 0.7);
@@ -18,7 +18,7 @@ const GlobalStyle = createGlobalStyle`
     --white: #e6f1ff;
     --authwhite: #ffffff;
     --black: #000000
-    --green: #64ffda;
+    --green: #63B091;
     --green-tint: rgba(100, 255, 218, 0.1);
 
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
