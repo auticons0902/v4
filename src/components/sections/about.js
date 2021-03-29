@@ -8,6 +8,10 @@ import sr from '@utils/sr';
 const StyledAboutSection = styled.section`
   max-width: 900px;
 
+  h2 {
+    color: var(--white);
+  }
+
   .inner {
     display: grid;
     grid-template-columns: 3fr 2fr;
@@ -26,19 +30,20 @@ const StyledText = styled.div`
     margin: 20px 0 0 0;
     overflow: hidden;
     list-style: none;
+    color: var(--green);
 
     li {
       position: relative;
       margin-bottom: 10px;
       padding-left: 20px;
       font-family: var(--font-mono);
-      font-size: var(--fz-xs);
+      font-size: var(--fz-sm);
 
       &:before {
         content: '▹';
         position: absolute;
         left: 0;
-        color: var(--green);
+        color: var(--white);
         font-size: var(--fz-sm);
         line-height: 12px;
       }

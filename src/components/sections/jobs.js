@@ -9,6 +9,10 @@ import sr from '@utils/sr';
 const StyledJobsSection = styled.section`
   max-width: 700px;
 
+  h2 {
+    color: var(--white);
+  }
+
   .inner {
     display: flex;
 
