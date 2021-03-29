@@ -8,14 +8,14 @@ const GlobalStyle = createGlobalStyle`
 
   :root {
     --dark-navy: #020c1b;
-    // --navy: #e6f1ff;
+    --navy: #EEFFF1;
     --light-navy: #172a45;
     --lightest-navy: #303C55;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --slate: #8892b0;
     --light-slate: #a8b2d1;
     --lightest-slate: #ccd6f6;
-    --white: #e6f1ff;
+    --white: #AACDB1;
     --authwhite: #ffffff;
     --black: #000000
     --green: #63B091;
