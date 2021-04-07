@@ -97,6 +97,8 @@ const StyledLinks = styled.div`
     padding: 0;
     margin: 0;
     list-style: none;
+    // forcing menu text colors
+    color: var(--white);
 
     li {
       margin: 0 5px;
