@@ -25,7 +25,7 @@ const StyledHeader = styled.header`
   transition: var(--transition);
 
   ${props =>
-    props.scrollDirection === 'up' &&
+    props.scrollDirection === 'down' &&
     !props.scrolledToTop &&
     css`
       height: var(--nav-scroll-height);
@@ -35,11 +35,12 @@ const StyledHeader = styled.header`
     `};
 
   ${props =>
-    props.scrollDirection === 'down' &&
+    props.scrollDirection === 'up' &&
     !props.scrolledToTop &&
     css`
       height: var(--nav-scroll-height);
-      transform: translateY(calc(var(--nav-scroll-height) * -1));
+      // transform: translateY(calc(var(--nav-scroll-height) * -1));
+      transform: translateY(0px);
       box-shadow: 0 10px 30px -10px var(--navy-shadow);
     `};
 

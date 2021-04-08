@@ -20,7 +20,7 @@ const IconLogo = () => (
     xmlns="http://www.w3.org/2000/svg">
     <path
       d="m128 152v16l13.72 274.4a48 48 0 0 0 47.94 45.6h132.68a48 48 0 0 0 47.94-45.6l13.72-274.4v-16z"
-      fill="#d9dbdd"
+      fill="#FCFFDB"
     />
     <path d="m232 160h48v88h-48z" fill="#fdd14b" />
     <path d="m232 24h48v128h-48z" fill="#fdd14b" />
