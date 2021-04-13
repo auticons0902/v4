@@ -2,10 +2,10 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Nhi Nguyen',
+    title: 'Nhi Nguyen - the BobaAngel',
     description:
       'Nhi Nguyen is a Junior at Seattle University double majoring in Finance and Business Analytics. She is an incoming Finance Intern at Thermo Fisher Scientific in their Finance Leadership Development Program. ',
-    siteUrl: 'https://thisisnhinguyen.com', // No trailing slash allowed!
+    siteUrl: 'https://boba-angel.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@NhiNguyen0616',
   },
@@ -19,7 +19,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Nhi Nguyen',
+        name: 'BobaAngel',
         short_name: 'NhiNguyen',
         start_url: '/',
         background_color: config.colors.white,

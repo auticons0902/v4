@@ -21,11 +21,14 @@ const GlobalStyle = createGlobalStyle`
     --authwhite: #ffffff;
     --black: #000000
     --green: #63B091;
-    --green-tint: rgba(230, 255, 210, 0.2);
+    --green-tint: rgba(230, 250, 207, 0.9);
     // --green-tint: rgba(100, 255, 218, 0.1);
 
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
+
+    // --font-sans: 'Open Sans', -apple-system, system-ui, sans-serif;
+    // --font-mono: 'Open Sans', monospace;
 
     --fz-xxs: 12px;
     --fz-xs: 13px;
