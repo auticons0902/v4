@@ -29,7 +29,7 @@ const StyledHeader = styled.header`
     !props.scrolledToTop &&
     css`
       height: var(--nav-scroll-height);
-      transform: translateY(calc(var(--nav-scroll-height) * -1));
+      // transform: translateY(calc(var(--nav-scroll-height) * -1));
       background-color: var(--green-tint);
       // background-color: rgba(255, 255, 255, 0.7);
       // box-shadow: 0 10px 30px -10px var(--navy-shadow);
@@ -43,7 +43,7 @@ const StyledHeader = styled.header`
       background-color: var(--green-tint);
       // background-color: rgba(255, 255, 255, 0.7);
       // transform: translateY(0px);
-      box-shadow: 0 10px 30px -10px var(--navy-shadow);
+      // box-shadow: 0 10px 30px -10px var(--navy-shadow);
     `};
 
   @media (max-width: 1080px) {
