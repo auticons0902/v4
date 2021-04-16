@@ -55,9 +55,9 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm currently looking for full-time opportunities in Finance and Business Analytics. Whether
-        you would like to contact regarding these opportunities or just want to say hi, my inbox is
-        always open. I'll make sure to get back to you as soon as I can!
+        I'm currently looking for full-time opportunities in Finance and Business Analytics with
+        2022 start date. Whether you would like to contact regarding these opportunities or just
+        want to say hi, my inbox is always open. I'll make sure to get back to you as soon as I can!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
