@@ -1,5 +1,5 @@
 ---
-date: '2018-04-01'
+date: '2018-04-01' # used for ordering in the website
 title: 'Chair of Internal Affairs'
 company: 'Student Government of SU'
 location: 'Seattle, WA'

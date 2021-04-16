@@ -1,5 +1,5 @@
 ---
-date: '2017-04-01'
+date: '2017-04-01' # used for ordering in the website
 title: 'Student Ambassador'
 company: 'Information Central at SCC'
 location: 'Seattle, WA'

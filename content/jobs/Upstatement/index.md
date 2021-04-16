@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '2018-05-14' # used for ordering in the website
 title: 'Equity Research Analyst'
 company: 'SeattleU Redhawk Fund'
 location: 'Seattle, WA'

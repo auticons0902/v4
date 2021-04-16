@@ -1,5 +1,5 @@
 ---
-date: '2017-12-21'
+date: '2017-12-21' # used for ordering in the website
 title: 'Internal Audit Intern'
 company: 'Business Impact NW'
 location: 'Seattle, WA'
